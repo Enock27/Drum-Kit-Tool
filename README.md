@@ -28,3 +28,5 @@ A simple and interactive Drum Kit web application that allows users to play drum
    - `l`: Tom 4
 
 ## File Structure
+Drum-Kit/ ├── index.html # Main HTML file ├── styles.css # CSS file for styling ├── index.js # JavaScript file for functionality ├── sounds/ # Folder containing drum sound files │ ├── crash.mp3 │ ├── kick-bass.mp3 │ ├── snare.mp3 │ ├── tom-1.mp3 │ ├── tom-2.mp3 │ ├── tom-3.mp3 │ └── tom-4.mp3 └── images/ # Folder containing drum images ├── crash.png ├── kick.png ├── snare.png ├── tom1.png ├── tom2.png ├── tom3.png └── tom4.png
+
